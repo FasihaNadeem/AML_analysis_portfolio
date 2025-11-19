@@ -1,0 +1,103 @@
+transaction_id,customer_id,customer_name,age,gender,city,account_type,account_open_date,transaction_date,transaction_type,amount_PKR,currency,channel,counterparty_country,is_cash,notes,risk_score,auto_flag,T_type_point,Amount_points,Country_points,is_cash,,Country_count,is_cash_points,txn_count,num_high_risk_countries,cash_txn_count,high_val_trans,round_amount_flag,per_day_cos_deposit_withdrawl,round_amount,newacc_high_trans,Suspecious_Customer
+TX0081,CUST013,Owais Mir,35.00,M,Quetta,current,1/10/2021,6/14/2025,transfer_out,14729.00,PKR,agent,Pakistan,no,,25,FALSE,10,15,0,0,,0,0,1,0,0,0,0,0,0,0,0
+TX0085,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,5/25/2025,bill_payment,9905.00,PKR,mobile_app,UK,no,,35,FALSE,5,10,20,0,,1,0,7,5,1,0,0,0,0,0,1
+TX0034,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,3/6/2025,bill_payment,11432.00,PKR,mobile_app,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,7,5,1,0,0,0,0,0,0
+TX0082,CUST036,Sara Malik,26.00,F,Peshawar,current,8/11/2022,5/14/2024,cash_withdrawal,31910.00,PKR,agent,USA,yes,,70,TRUE,15,15,20,20,,1,1,2,1,2,0,0,0,0,0,2
+TX0094,CUST022,Hassan Saeed,20.00,M,Sialkot,current,10/25/2021,6/30/2025,transfer_out,14785.00,PKR,atm,USA,no,manual_suspect,45,TRUE,10,15,20,0,,1,0,3,3,0,0,0,0,0,0,1
+TX0018,CUST039,Huma Ahmed,47.00,M,Faisalabad,current,10/20/2020,6/7/2025,deposit,3162.00,PKR,payment_gateway,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,2,0,0,0,0,0,0,0,0
+TX0037,CUST002,Nida Malik,63.00,M,Hyderabad,current,5/11/2018,2/2/2025,withdrawal,8001.00,PKR,pos,Pakistan,no,,20,FALSE,10,10,0,0,,0,0,4,2,1,0,0,0,0,0,0
+TX0083,CUST041,Usman Saeed,20.00,M,Rawalpindi,savings,7/23/2022,9/15/2025,card_payment,862.00,PKR,pos,Pakistan,no,,10,FALSE,5,5,0,0,,0,0,1,0,0,0,0,0,0,0,0
+TX0070,CUST045,Ahmed Javed,54.00,M,Peshawar,savings,7/25/2018,8/31/2025,transfer_out,3949.00,PKR,branch,UK,no,manual_suspect,40,TRUE,10,10,20,0,,1,0,4,2,1,0,0,0,0,0,1
+TX0066,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,7/25/2025,card_payment,4533.00,PKR,payment_gateway,UAE,no,,35,FALSE,5,10,20,0,,1,0,7,5,1,0,0,0,0,0,1
+TX0093,CUST042,Huma Raza,33.00,F,Karachi,savings,4/2/2022,6/7/2024,deposit,6200.00,PKR,atm,China,yes,manual_suspect,55,TRUE,5,10,20,20,,1,1,1,1,1,0,0,0,0,0,2
+TX0040,CUST030,Bilal Sharif,54.00,M,Faisalabad,current,3/10/2022,11/30/2024,withdrawal,1630.00,PKR,agent,China,yes,manual_suspect,60,TRUE,10,10,20,20,,1,1,3,3,1,0,0,0,0,0,2
+TX0057,CUST024,Owais  Sheikh,31.00,M,Faisalabad,business,9/11/2023,4/29/2025,transfer_in,8314.00,PKR,atm,Saudi Arabia,no,,35,FALSE,5,10,20,0,,1,0,2,1,0,0,0,0,0,0,1
+TX0053,CUST021,Maria Malik,44.00,F,Hyderabad,current,12/8/2023,7/5/2024,transfer_out,23980.00,PKR,atm,Saudi Arabia,no,manual_suspect,45,TRUE,10,15,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0052,CUST049,Usman Javed,56.00,F,Faisalabad,savings,7/10/2021,4/20/2025,transfer_in,7146.00,PKR,pos,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,3,1,0,0,0,0,0,0,0
+TX0033,CUST010,Sajjad Qureshi,25.00,M,Lahore,current,2/12/2021,8/7/2024,deposit,6027.00,PKR,agent,USA,yes,manual_suspect,55,TRUE,5,10,20,20,,1,1,2,1,1,0,0,0,0,0,2
+TX0032,CUST022,Hassan Saeed,20.00,M,Sialkot,current,10/25/2021,11/23/2024,card_payment,745.00,PKR,branch,UAE,no,,30,FALSE,5,5,20,0,,1,0,3,3,0,0,0,0,0,0,1
+TX0045,CUST011,Huma Butt,43.00,M,Peshawar,current,5/8/2020,11/14/2024,deposit,39652.00,PKR,branch,China,yes,manual_suspect,60,TRUE,5,15,20,20,,1,1,5,3,4,0,0,0,0,0,2
+TX0079,CUST026,Faraz Khan,58.00,F,Quetta,savings,4/4/2019,7/17/2025,deposit,5664.00,PKR,branch,Saudi Arabia,yes,manual_suspect,55,TRUE,5,10,20,20,,1,1,1,1,1,0,0,0,0,0,2
+TX0011,CUST048,Faraz Javed,35.00,M,Hyderabad,savings,9/14/2022,6/7/2024,cash_withdrawal,29993.00,PKR,mobile_app,Pakistan,no,,30,FALSE,15,15,0,0,,0,0,6,3,0,0,0,0,0,0,0
+TX0003,CUST011,Huma Butt,43.00,M,Peshawar,current,5/8/2020,3/24/2025,card_payment,1801.00,PKR,pos,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,5,3,4,0,0,0,0,0,0
+TX0074,CUST032,Ayesha Ali,21.00,M,Hyderabad,savings,1/30/2018,3/24/2025,deposit,33031.00,PKR,branch,Saudi Arabia,yes,manual_suspect,60,TRUE,5,15,20,20,,1,1,1,1,1,0,0,0,0,0,2
+TX0098,CUST024,Owais  Sheikh,31.00,M,Faisalabad,business,9/11/2023,3/17/2025,deposit,7967.00,PKR,payment_gateway,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,2,1,0,0,0,0,0,0,0
+TX0063,CUST001,Usman Malik,21.00,F,Rawalpindi,savings,7/26/2019,8/10/2025,withdrawal,2903.00,PKR,agent,Pakistan,yes,,40,TRUE,10,10,0,20,,0,1,2,1,1,0,0,0,0,0,1
+TX0020,CUST023,Ayesha Qureshi,47.00,M,Quetta,savings,12/14/2020,9/3/2025,deposit,87169.00,PKR,branch,UK,yes,manual_suspect,70,TRUE,5,25,20,20,,1,1,4,3,4,0,0,0,0,0,2
+TX0036,CUST048,Faraz Javed,35.00,M,Hyderabad,savings,9/14/2022,7/13/2025,card_payment,3349.00,PKR,mobile_app,UK,no,,35,FALSE,5,10,20,0,,1,0,6,3,0,0,0,0,0,0,1
+TX0095,CUST003,Ahmed Malik,33.00,M,Sialkot,business,4/19/2018,9/24/2025,deposit,17299.00,PKR,pos,UK,no,,40,TRUE,5,15,20,0,,1,0,2,2,0,0,0,0,0,0,1
+TX0028,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,4/12/2025,deposit,16520.00,PKR,agent,Saudi Arabia,yes,,60,TRUE,5,15,20,20,,1,1,7,5,1,0,0,0,0,0,2
+TX0047,CUST050,Sara Qureshi,45.00,M,Faisalabad,current,7/19/2021,11/4/2024,card_payment,8187.00,PKR,payment_gateway,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,2,1,0,0,0,0,0,0,0
+TX0039,CUST028,Ayesha Malik,51.00,M,Sialkot,savings,6/10/2019,5/18/2024,card_payment,258.00,PKR,mobile_app,China,no,,30,FALSE,5,5,20,0,,1,0,3,3,0,0,0,0,0,0,1
+TX0068,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,3/2/2024,withdrawal,6335.00,PKR,mobile_app,UAE,no,,40,TRUE,10,10,20,0,,1,0,7,5,1,0,0,0,0,0,1
+TX0100,CUST010,Sajjad Qureshi,25.00,M,Lahore,current,2/12/2021,8/25/2024,transfer_out,9231.00,PKR,atm,Pakistan,no,,20,FALSE,10,10,0,0,,0,0,2,1,1,0,0,0,0,0,0
+TX0055,CUST027,Faraz Ali,39.00,M,Karachi,savings,5/12/2024,5/15/2025,transfer_in,17597.00,PKR,mobile_app,USA,no,,40,TRUE,5,15,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0096,CUST048,Faraz Javed,35.00,M,Hyderabad,savings,9/14/2022,4/2/2024,transfer_out,21430.00,PKR,branch,Pakistan,no,,25,FALSE,10,15,0,0,,0,0,6,3,0,0,0,0,0,0,0
+TX0089,CUST031,Huma Tariq,53.00,F,Lahore,savings,7/9/2020,12/19/2024,withdrawal,2368.00,PKR,payment_gateway,Saudi Arabia,no,,40,TRUE,10,10,20,0,,1,0,2,2,1,0,0,0,0,0,1
+TX0041,CUST006,Zain Sharif,41.00,M,Lahore,current,2/1/2019,4/26/2025,deposit,802.00,PKR,payment_gateway,Saudi Arabia,no,,30,FALSE,5,5,20,0,,1,0,4,2,1,0,0,0,0,0,1
+TX0049,CUST007,Fatima Nawaz,42.00,F,Karachi,business,2/25/2023,3/19/2025,cash_withdrawal,33325.00,PKR,pos,USA,no,,50,TRUE,15,15,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0060,CUST018,Sara Mir,55.00,F,Hyderabad,current,7/18/2024,8/26/2025,cash_withdrawal,13624.00,PKR,payment_gateway,Pakistan,no,,30,FALSE,15,15,0,0,,0,0,2,0,0,0,0,0,0,0,0
+TX0024,CUST049,Usman Javed,56.00,F,Faisalabad,savings,7/10/2021,8/28/2024,transfer_out,456736.00,PKR,mobile_app,USA,no,manual_suspect,70,TRUE,10,40,20,0,,1,0,3,1,0,1,0,0,0,0,2
+TX0035,CUST031,Huma Tariq,53.00,F,Lahore,savings,7/9/2020,1/7/2024,cash_withdrawal,21004.00,PKR,atm,China,yes,,70,TRUE,15,15,20,20,,1,1,2,2,1,0,0,0,0,0,2
+TX0087,CUST018,Sara Mir,55.00,F,Hyderabad,current,7/18/2024,2/28/2025,withdrawal,1554.00,PKR,payment_gateway,Pakistan,no,,20,FALSE,10,10,0,0,,0,0,2,0,0,0,0,0,0,0,0
+TX0054,CUST039,Huma Ahmed,47.00,M,Faisalabad,current,10/20/2020,10/9/2024,transfer_in,44366.00,PKR,payment_gateway,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,2,0,0,0,0,0,0,0,0
+TX0078,CUST022,Hassan Saeed,20.00,M,Sialkot,current,10/25/2021,11/24/2024,bill_payment,2001.00,PKR,mobile_app,USA,no,,35,FALSE,5,10,20,0,,1,0,3,3,0,0,0,0,0,0,1
+TX0016,CUST033,Ayesha Mir,60.00,M,Rawalpindi,savings,5/9/2018,2/13/2025,bill_payment,2011.00,PKR,payment_gateway,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,1,0,0,0,0,0,0,0,0
+TX0084,CUST006,Zain Sharif,41.00,M,Lahore,current,2/1/2019,8/18/2024,cash_withdrawal,9283.00,PKR,branch,Pakistan,yes,,45,TRUE,15,10,0,20,,0,1,4,2,1,0,0,0,0,0,1
+TX0042,CUST005,Hassan  Sheikh,20.00,M,Multan,current,2/12/2021,2/11/2024,card_payment,1112.00,PKR,mobile_app,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,1,0,0,0,0,0,0,0,0
+TX0046,CUST046,Maria Raza,52.00,M,Karachi,business,11/25/2018,7/22/2024,deposit,26630.00,PKR,pos,UAE,no,,40,TRUE,5,15,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0092,CUST029,Usman Raza,55.00,M,Faisalabad,business,10/20/2024,4/12/2024,transfer_out,232.00,PKR,agent,Pakistan,no,,15,FALSE,10,5,0,0,,0,0,3,2,0,0,0,0,0,0,0
+TX0027,CUST015,Rabia Khan,40.00,F,Faisalabad,savings,5/14/2020,6/29/2024,card_payment,3649.00,PKR,pos,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,2,1,0,0,0,0,0,0,0
+TX0099,CUST006,Zain Sharif,41.00,M,Lahore,current,2/1/2019,9/16/2025,card_payment,5746.00,PKR,payment_gateway,USA,no,,35,FALSE,5,10,20,0,,1,0,4,2,1,0,0,0,0,0,1
+TX0044,CUST017,Bilal Tariq,61.00,F,Islamabad,current,7/26/2019,1/12/2025,deposit,49753.00,PKR,payment_gateway,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,2,0,1,0,0,0,0,0,0
+TX0056,CUST002,Nida Malik,63.00,M,Hyderabad,current,5/11/2018,4/5/2024,withdrawal,5885.00,PKR,agent,UK,yes,,60,TRUE,10,10,20,20,,1,1,4,2,1,0,0,0,0,0,2
+TX0025,CUST040,Rabia Tariq,24.00,F,Sialkot,savings,7/27/2018,3/15/2024,transfer_out,12859.00,PKR,pos,China,no,,45,TRUE,10,15,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0005,CUST011,Huma Butt,43.00,M,Peshawar,current,5/8/2020,10/21/2025,deposit,269884.00,PKR,agent,UK,yes,manual_suspect,85,TRUE,5,40,20,20,,1,1,5,3,4,0,0,0,0,0,2
+TX0059,CUST048,Faraz Javed,35.00,M,Hyderabad,savings,9/14/2022,7/2/2025,cash_withdrawal,3071.00,PKR,pos,UAE,no,,45,TRUE,15,10,20,0,,1,0,6,3,0,0,0,0,0,0,1
+TX0050,CUST028,Ayesha Malik,51.00,M,Sialkot,savings,6/10/2019,6/29/2024,bill_payment,1574.00,PKR,pos,USA,no,,35,FALSE,5,10,20,0,,1,0,3,3,0,0,0,0,0,0,1
+TX0022,CUST023,Ayesha Qureshi,47.00,M,Quetta,savings,12/14/2020,9/4/2025,deposit,53774.00,PKR,branch,Saudi Arabia,yes,manual_suspect,70,TRUE,5,25,20,20,,1,1,4,3,4,0,0,0,0,0,2
+TX0088,CUST020,Sajjad Khan,27.00,M,Islamabad,business,9/26/2022,8/24/2025,transfer_in,10090.00,PKR,pos,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,1,0,0,0,0,0,0,0,0
+TX0004,CUST036,Sara Malik,26.00,F,Peshawar,current,8/11/2022,11/2/2024,cash_withdrawal,41936.00,PKR,branch,Pakistan,yes,,50,TRUE,15,15,0,20,,0,1,2,1,2,0,0,0,0,0,1
+TX0075,CUST002,Nida Malik,63.00,M,Hyderabad,current,5/11/2018,4/3/2024,withdrawal,9038.00,PKR,pos,Pakistan,no,,20,FALSE,10,10,0,0,,0,0,4,2,1,0,0,0,0,0,0
+TX0031,CUST034,Rabia Ali,24.00,M,Faisalabad,business,6/12/2023,5/11/2025,transfer_in,8694.00,PKR,atm,UK,no,,35,FALSE,5,10,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0067,CUST025,Maria Sharif,29.00,F,Islamabad,business,12/13/2023,4/6/2025,cash_withdrawal,29510.00,PKR,atm,China,yes,,70,TRUE,15,15,20,20,,1,1,2,2,1,0,0,0,0,0,2
+TX0071,CUST030,Bilal Sharif,54.00,M,Faisalabad,current,3/10/2022,3/13/2024,bill_payment,7752.00,PKR,atm,UAE,no,,35,FALSE,5,10,20,0,,1,0,3,3,1,0,0,0,0,0,1
+TX0043,CUST016,Faraz Javed,65.00,F,Rawalpindi,business,8/7/2023,5/9/2024,transfer_out,12451.00,PKR,branch,UAE,no,,45,TRUE,10,15,20,0,,1,0,3,1,0,0,0,0,0,0,1
+TX0048,CUST028,Ayesha Malik,51.00,M,Sialkot,savings,6/10/2019,1/14/2025,deposit,6261.00,PKR,pos,China,no,,35,FALSE,5,10,20,0,,1,0,3,3,0,0,0,0,0,0,1
+TX0090,CUST045,Ahmed Javed,54.00,M,Peshawar,savings,7/25/2018,9/1/2024,transfer_out,695951.00,PKR,mobile_app,USA,no,manual_suspect,70,TRUE,10,40,20,0,,1,0,4,2,1,1,0,0,0,0,2
+TX0009,CUST003,Ahmed Malik,33.00,M,Sialkot,business,4/19/2018,11/11/2024,transfer_out,34378.00,PKR,branch,UAE,no,,45,TRUE,10,15,20,0,,1,0,2,2,0,0,0,0,0,0,1
+TX0061,CUST019,Bilal Ali,34.00,M,Sialkot,current,1/8/2019,8/20/2024,transfer_out,214.00,PKR,atm,Pakistan,no,,15,FALSE,10,5,0,0,,0,0,1,0,0,0,0,0,0,0,0
+TX0001,CUST049,Usman Javed,56.00,F,Faisalabad,savings,7/10/2021,3/15/2024,deposit,97086.00,PKR,payment_gateway,Pakistan,no,,30,FALSE,5,25,0,0,,0,0,3,1,0,0,0,0,0,0,0
+TX0091,CUST025,Maria Sharif,29.00,F,Islamabad,business,12/13/2023,6/4/2024,transfer_out,2024.00,PKR,branch,Saudi Arabia,no,,40,TRUE,10,10,20,0,,1,0,2,2,1,0,0,0,0,0,1
+TX0058,CUST030,Bilal Sharif,54.00,M,Faisalabad,current,3/10/2022,10/4/2024,withdrawal,643.00,PKR,mobile_app,UAE,no,,35,FALSE,10,5,20,0,,1,0,3,3,1,0,0,0,0,0,1
+TX0023,CUST023,Ayesha Qureshi,47.00,M,Quetta,savings,12/14/2020,9/3/2025,deposit,45557.00,PKR,branch,Saudi Arabia,yes,manual_suspect,60,TRUE,5,15,20,20,,1,1,4,3,4,0,0,0,0,0,2
+TX0062,CUST004,Owais Sharif,65.00,F,Rawalpindi,current,8/10/2024,7/20/2025,withdrawal,5079.00,PKR,mobile_app,USA,no,,40,TRUE,10,10,20,0,,1,0,1,1,0,0,0,0,0,0,1
+TX0064,CUST017,Bilal Tariq,61.00,F,Islamabad,current,7/26/2019,5/4/2025,deposit,7680.00,PKR,branch,Pakistan,yes,,35,FALSE,5,10,0,20,,0,1,2,0,1,0,0,0,0,0,1
+TX0008,CUST045,Ahmed Javed,54.00,M,Peshawar,savings,7/25/2018,6/1/2024,transfer_in,13102.00,PKR,atm,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,4,2,1,0,0,0,0,0,0
+TX0097,CUST045,Ahmed Javed,54.00,M,Peshawar,savings,7/25/2018,11/2/2024,cash_withdrawal,5882.00,PKR,branch,Pakistan,yes,,45,TRUE,15,10,0,20,,0,1,4,2,1,0,0,0,0,0,1
+TX0014,CUST015,Rabia Khan,40.00,F,Faisalabad,savings,5/14/2020,7/23/2024,card_payment,2151.00,PKR,agent,UAE,no,,35,FALSE,5,10,20,0,,1,0,2,1,0,0,0,0,0,0,1
+TX0069,CUST006,Zain Sharif,41.00,M,Lahore,current,2/1/2019,6/9/2024,withdrawal,390.00,PKR,payment_gateway,Pakistan,no,,15,FALSE,10,5,0,0,,0,0,4,2,1,0,0,0,0,0,0
+TX0086,CUST016,Faraz Javed,65.00,F,Rawalpindi,business,8/7/2023,4/12/2025,transfer_in,3172.00,PKR,agent,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,3,1,0,0,0,0,0,0,0
+TX0015,CUST043,Ahmed Hussain,36.00,F,Faisalabad,current,3/26/2024,7/16/2024,transfer_out,29965.00,PKR,atm,UK,no,,45,TRUE,10,15,20,0,,1,0,2,2,0,0,0,0,0,0,1
+TX0030,CUST048,Faraz Javed,35.00,M,Hyderabad,savings,9/14/2022,5/1/2025,transfer_out,27476.00,PKR,mobile_app,UK,no,,45,TRUE,10,15,20,0,,1,0,6,3,0,0,0,0,0,0,1
+TX0029,CUST029,Usman Raza,55.00,M,Faisalabad,business,10/20/2024,9/19/2025,card_payment,2782.00,PKR,payment_gateway,USA,no,,35,FALSE,5,10,20,0,,1,0,3,2,0,0,0,0,0,0,1
+TX0012,CUST002,Nida Malik,63.00,M,Hyderabad,current,5/11/2018,7/2/2024,bill_payment,7625.00,PKR,atm,China,no,,35,FALSE,5,10,20,0,,1,0,4,2,1,0,0,0,0,0,1
+TX0019,CUST001,Usman Malik,21.00,F,Rawalpindi,savings,7/26/2019,6/16/2025,cash_withdrawal,17416.00,PKR,payment_gateway,UAE,no,,50,TRUE,15,15,20,0,,1,0,2,1,1,0,0,0,0,0,1
+TX0021,CUST023,Ayesha Qureshi,47.00,M,Quetta,savings,12/14/2020,9/4/2025,deposit,67554.00,PKR,branch,Pakistan,yes,manual_suspect,50,TRUE,5,25,0,20,,0,1,4,3,4,0,0,0,0,0,1
+TX0051,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,8/29/2025,card_payment,9385.00,PKR,mobile_app,Pakistan,no,,15,FALSE,5,10,0,0,,0,0,7,5,1,0,0,0,0,0,0
+TX0026,CUST016,Faraz Javed,65.00,F,Rawalpindi,business,8/7/2023,5/31/2024,bill_payment,11159.00,PKR,branch,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,3,1,0,0,0,0,0,0,0
+TX0007,CUST011,Huma Butt,43.00,M,Peshawar,current,5/8/2020,10/24/2025,deposit,292115.00,PKR,agent,Pakistan,yes,manual_suspect,65,TRUE,5,40,0,20,,0,1,5,3,4,0,0,0,0,0,1
+TX0072,CUST035,Sara Saeed,28.00,F,Rawalpindi,current,7/26/2022,8/18/2024,transfer_out,522554.00,PKR,atm,Saudi Arabia,no,manual_suspect,70,TRUE,10,40,20,0,,1,0,1,1,0,1,0,0,0,0,2
+TX0077,CUST012,Usman Qureshi,64.00,M,Hyderabad,business,12/2/2019,8/22/2025,transfer_out,52133.00,PKR,agent,USA,no,,55,TRUE,10,25,20,0,,1,0,1,1,0,1,0,0,0,0,2
+TX0002,CUST014,Faraz Butt,64.00,M,Peshawar,savings,7/27/2020,6/2/2025,withdrawal,10637.00,PKR,atm,UAE,yes,,65,TRUE,10,15,20,20,,1,1,1,1,1,0,0,0,0,0,2
+TX0017,CUST008,Owais Malik,44.00,M,Sialkot,current,1/21/2022,7/1/2024,bill_payment,7139.00,PKR,mobile_app,China,no,,35,FALSE,5,10,20,0,,1,0,7,5,1,0,0,0,0,0,1
+TX0065,CUST044,Usman Mir,51.00,M,Rawalpindi,current,6/10/2020,2/24/2024,deposit,44676.00,PKR,payment_gateway,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,2,1,0,0,0,0,0,0,0
+TX0080,CUST050,Sara Qureshi,45.00,M,Faisalabad,current,7/19/2021,2/17/2025,card_payment,5360.00,PKR,branch,USA,no,,35,FALSE,5,10,20,0,,1,0,2,1,0,0,0,0,0,0,1
+TX0006,CUST011,Huma Butt,43.00,M,Peshawar,current,5/8/2020,10/20/2025,deposit,191557.00,PKR,agent,Saudi Arabia,yes,manual_suspect,85,TRUE,5,40,20,20,,1,1,5,3,4,0,0,0,0,0,2
+TX0076,CUST044,Usman Mir,51.00,M,Rawalpindi,current,6/10/2020,10/2/2024,transfer_in,9537.00,PKR,mobile_app,USA,no,,35,FALSE,5,10,20,0,,1,0,2,1,0,0,0,0,0,0,1
+TX0010,CUST043,Ahmed Hussain,36.00,F,Faisalabad,current,3/26/2024,4/15/2024,transfer_out,32330.00,PKR,payment_gateway,China,no,,45,TRUE,10,15,20,0,,1,0,2,2,0,0,0,0,0,0,1
+TX0073,CUST029,Usman Raza,55.00,M,Faisalabad,business,10/20/2024,5/7/2024,transfer_out,18046.00,PKR,atm,UK,no,,45,TRUE,10,15,20,0,,1,0,3,2,0,0,0,0,0,0,1
+TX0013,CUST048,Faraz Javed,35.00,M,Hyderabad,savings,9/14/2022,9/11/2024,withdrawal,572.00,PKR,pos,Pakistan,no,,15,FALSE,10,5,0,0,,0,0,6,3,0,0,0,0,0,0,0
+TX0038,CUST009,Maria Sharif,65.00,M,Karachi,business,7/22/2020,9/29/2025,transfer_in,13443.00,PKR,agent,Pakistan,no,,20,FALSE,5,15,0,0,,0,0,1,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
