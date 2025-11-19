@@ -1,0 +1,22 @@
+transaction_id,customer_id,customer_name,age,gender,city,account_type,account_open_date,transaction_date,transaction_type,amount_PKR,currency,channel,counterparty_country,is_cash,notes,risk_score,auto_flag,T_type_point,Amount_points,Country_points,is_cash_flag,Country_count,is_cash_points,high_val_trans,round_amount_flag,per_day_cos_deposit_withdrawl,newacc_high_trans,Suspecious_Customer
+TX0082,CUST036,Sara Malik,26,F,Peshawar,current,8/11/2022,5/14/2024,cash_withdrawal,31910.00,PKR,agent,USA,yes,,70,TRUE,15,15,20,20,1,1,0,0,0,0,2
+TX0093,CUST042,Huma Raza,33,F,Karachi,savings,4/2/2022,6/7/2024,deposit,6200.00,PKR,atm,China,yes,manual_suspect,55,TRUE,5,10,20,20,1,1,0,0,0,0,2
+TX0040,CUST030,Bilal Sharif,54,M,Faisalabad,current,3/10/2022,11/30/2024,withdrawal,1630.00,PKR,agent,China,yes,manual_suspect,60,TRUE,10,10,20,20,1,1,0,0,0,0,2
+TX0033,CUST010,Sajjad Qureshi,25,M,Lahore,current,2/12/2021,8/7/2024,deposit,6027.00,PKR,agent,USA,yes,manual_suspect,55,TRUE,5,10,20,20,1,1,0,0,0,0,2
+TX0045,CUST011,Huma Butt,43,M,Peshawar,current,5/8/2020,11/14/2024,deposit,39652.00,PKR,branch,China,yes,manual_suspect,60,TRUE,5,15,20,20,1,1,0,0,0,0,2
+TX0079,CUST026,Faraz Khan,58,F,Quetta,savings,4/4/2019,7/17/2025,deposit,5664.00,PKR,branch,Saudi Arabia,yes,manual_suspect,55,TRUE,5,10,20,20,1,1,0,0,0,0,2
+TX0074,CUST032,Ayesha Ali,21,M,Hyderabad,savings,1/30/2018,3/24/2025,deposit,33031.00,PKR,branch,Saudi Arabia,yes,manual_suspect,60,TRUE,5,15,20,20,1,1,0,0,0,0,2
+TX0020,CUST023,Ayesha Qureshi,47,M,Quetta,savings,12/14/2020,9/3/2025,deposit,87169.00,PKR,branch,UK,yes,manual_suspect,70,TRUE,5,25,20,20,1,1,0,0,0,0,2
+TX0028,CUST008,Owais Malik,44,M,Sialkot,current,1/21/2022,4/12/2025,deposit,16520.00,PKR,agent,Saudi Arabia,yes,,60,TRUE,5,15,20,20,1,1,0,0,0,0,2
+TX0024,CUST049,Usman Javed,56,F,Faisalabad,savings,7/10/2021,8/28/2024,transfer_out,456736.00,PKR,mobile_app,USA,no,manual_suspect,70,TRUE,10,40,20,0,1,0,1,0,0,0,2
+TX0035,CUST031,Huma Tariq,53,F,Lahore,savings,7/9/2020,1/7/2024,cash_withdrawal,21004.00,PKR,atm,China,yes,,70,TRUE,15,15,20,20,1,1,0,0,0,0,2
+TX0056,CUST002,Nida Malik,63,M,Hyderabad,current,5/11/2018,4/5/2024,withdrawal,5885,PKR,agent,UK,yes,,60,TRUE,10,10,20,20,1,1,0,0,0,0,2
+TX0005,CUST011,Huma Butt,43,M,Peshawar,current,5/8/2020,10/21/2025,deposit,269884.00,PKR,agent,UK,yes,manual_suspect,85,TRUE,5,40,20,20,1,1,0,0,0,0,2
+TX0022,CUST023,Ayesha Qureshi,47,M,Quetta,savings,12/14/2020,9/4/2025,deposit,53774.00,PKR,branch,Saudi Arabia,yes,manual_suspect,70,TRUE,5,25,20,20,1,1,0,0,0,0,2
+TX0067,CUST025,Maria Sharif,29,F,Islamabad,business,12/13/2023,4/6/2025,cash_withdrawal,29510.00,PKR,atm,China,yes,,70,TRUE,15,15,20,20,1,1,0,0,0,0,2
+TX0090,CUST045,Ahmed Javed,54,M,Peshawar,savings,7/25/2018,9/1/2024,transfer_out,695951.00,PKR,mobile_app,USA,no,manual_suspect,70,TRUE,10,40,20,0,1,0,1,0,0,0,2
+TX0023,CUST023,Ayesha Qureshi,47,M,Quetta,savings,12/14/2020,9/3/2025,deposit,45557.00,PKR,branch,Saudi Arabia,yes,manual_suspect,60,TRUE,5,15,20,20,1,1,0,0,0,0,2
+TX0072,CUST035,Sara Saeed,28,F,Rawalpindi,current,7/26/2022,8/18/2024,transfer_out,522554.00,PKR,atm,Saudi Arabia,no,manual_suspect,70,TRUE,10,40,20,0,1,0,1,0,0,0,2
+TX0077,CUST012,Usman Qureshi,64,M,Hyderabad,business,12/2/2019,8/22/2025,transfer_out,52133.00,PKR,agent,USA,no,,55,TRUE,10,25,20,0,1,0,1,0,0,0,2
+TX0002,CUST014,Faraz Butt,64,M,Peshawar,savings,7/27/2020,6/2/2025,withdrawal,10637.00,PKR,atm,UAE,yes,,65,TRUE,10,15,20,20,1,1,0,0,0,0,2
+TX0006,CUST011,Huma Butt,43,M,Peshawar,current,5/8/2020,10/20/2025,deposit,191557.00,PKR,agent,Saudi Arabia,yes,manual_suspect,85,TRUE,5,40,20,20,1,1,0,0,0,0,2
