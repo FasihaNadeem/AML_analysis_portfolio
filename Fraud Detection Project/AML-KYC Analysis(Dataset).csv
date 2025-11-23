@@ -1,0 +1,105 @@
+CustomerID,Full Name,DOB,Age,Address,CNIC,Occupation,Monthly Income,Business Nature,TransactionID,Transaction Date,Transaction Type,Amount,Counterparty,Channel,Country,RedFlagsDetected,RedFlagDetails,RiskScore,FinalRiskCategory
+CUS001,Nimra Farooq,12/19/1958,67,Karachi,4.88058E+12,Student,282070,Home Business,TID001,6/13/2025,Cash Deposit,12926,Counterparty_26,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS002,Ali Farooq,3/19/1960,65,Faisalabad,6.71547E+12,Business Owner,208580,Not Applicable,TID002,10/9/2025,Cash Deposit,403165,Counterparty_13,POS Terminal,Pakistan,1 flags,,34,Medium
+CUS003,Fahad Butt,1/23/1974,51,Peshawar,9.47256E+12,Business Owner,106378,Retail,TID003,8/23/2025,Cash Deposit,1208924,Counterparty_10,ATM,Pakistan,2 flags,,41,Medium
+CUS004,Nimra Siddiqui,2/18/1996,29,Lahore,3.48738E+12,Shopkeeper,265724,Retail,TID004,2/10/2025,Atm Withdrawal,259602,Counterparty_33,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS005,Maham Chaudhry,1/31/1967,58,Islamabad,9.16893E+12,Driver,443255,Online Sales,TID005,10/2/2025,Cash Deposit,31179,Counterparty_16,Mobile App,Pakistan,1 flags,,34,Medium
+CUS006,Usman Raza,4/3/1974,51,Peshawar,8.63039E+12,Banker,61436,Home Business,TID006,1/30/2025,Pos Payment,432245,Counterparty_10,Bank Branch,Pakistan,2 flags,,37,Medium
+CUS007,Danish Chaudhry,7/23/2004,21,Islamabad,5.8215E+12,Student,77169,Online Sales,TID007,2/11/2025,Online Transfer,1236668,Counterparty_15,ATM,Pakistan,2 flags,,37,Medium
+CUS008,Hina Khan,9/5/2000,25,Karachi,8.97208E+12,Electrician,48510,Service-Based,TID008,6/21/2025,Online Transfer,181366,Foreignbank_Canada,Online Banking,Canada,3 flags,"HighValueVsIncomeMismatch, ExcessiveCashDeposits, StructuringPattern, UnusualCounterparties, HighRiskCountry, RapidFundsMovement",44,High
+CUS009,Bilal Farooq,9/3/1979,46,Peshawar,9.6696E+12,Engineer,227215,Home Business,TID009,2/24/2025,Atm Withdrawal,275888,Counterparty_4,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS010,Ayesha Raza,1/3/1981,44,Faisalabad,5.46777E+12,Business Owner,176504,Online Sales,TID010,11/21/2025,Cheque Deposit,444878,Counterparty_39,Bank Branch,Pakistan,1 flags,,30,Low
+CUS011,Anaya Farooq,5/25/1956,69,Multan,1.73396E+12,Engineer,26448,Retail,TID011,5/21/2025,Atm Withdrawal,346613,Counterparty_5,POS Terminal,Pakistan,2 flags,,41,Medium
+CUS012,Danish Butt,4/14/1992,33,Multan,7.47563E+12,Student,1115938,Service-Based,TID012,4/11/2025,Cheque Deposit,487244,Counterparty_10,Mobile App,Pakistan,1 flags,,30,Low
+CUS013,Usman Khan,5/26/2001,24,Lahore,2.87304E+12,Engineer,999999,Online Sales,TID013,1/17/2025,Pos Payment,406690,Counterparty_18,ATM,Pakistan,1 flags,,30,Low
+CUS014,Nimra Khan,8/18/1967,58,Karachi,7.74264E+12,Business Owner,79915,Online Sales,TID014,3/10/2025,Pos Payment,441465,Foreignbank_Uae,Online Banking,Uae,3 flags,"HighValueVsIncomeMismatch, ExcessiveCashDeposits, StructuringPattern, UnusualCounterparties, HighRiskCountry, RapidFundsMovement",44,High
+CUS015,Usman Butt,3/13/1994,31,Hyderabad,6.23768E+12,Teacher,83029,Online Sales,TID015,11/22/2025,Atm Withdrawal,1016799,Counterparty_49,POS Terminal,Pakistan,2 flags,,41,Medium
+CUS016,Nimra Qureshi,10/11/1982,43,Rawalpindi,3.43535E+12,Student,76969,Retail,TID016,7/23/2025,Cheque Deposit,119091,Counterparty_8,POS Terminal,Pakistan,1 flags,,30,Low
+CUS017,Hina Qureshi,12/11/1974,51,Rawalpindi,3.79872E+12,Student,281368,Home Business,TID017,11/18/2025,Cash Deposit,449931,Counterparty_19,Mobile App,Pakistan,1 flags,,34,Medium
+CUS018,Usman Butt,3/28/1964,61,Rawalpindi,Invalid CNIC,Business Owner,97974,Online Sales,TID018,3/31/2025,Pos Payment,224215,Counterparty_17,POS Terminal,Pakistan,2 flags,,33,Medium
+CUS019,Junaid Khan,7/24/1992,33,Multan,7.04997E+12,Shopkeeper,260189,Retail,TID019,8/5/2025,Cheque Deposit,443291,Counterparty_38,POS Terminal,Pakistan,1 flags,,30,Low
+CUS020,Ayesha Chaudhry,3/6/1975,50,Multan,9.1561E+12,Student,155129,Wholesale,TID020,11/22/2025,Atm Withdrawal,410336,Counterparty_31,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS021,Danish Chaudhry,6/3/1970,55,Islamabad,3.23193E+12,Student,108349,Online Sales,TID021,5/16/2025,Pos Payment,290664,Counterparty_37,Mobile App,Pakistan,1 flags,,30,Low
+CUS022,Maham Sheikh,10/11/1975,50,Multan,2.86023E+12,Teacher,201920,Online Sales,TID022,12/21/2024,Cash Deposit,116900,Counterparty_9,Mobile App,Pakistan,1 flags,,34,Medium
+CUS023,Hina Siddiqui,2/11/1997,28,Peshawar,4.6583E+12,Banker,249690,Not Applicable,TID023,4/13/2025,Atm Withdrawal,287775,Counterparty_50,POS Terminal,Pakistan,1 flags,,34,Medium
+CUS024,Zara Siddiqui,3/5/1993,32,Faisalabad,9.7173E+12,Engineer,66336,Wholesale,TID024,5/17/2025,Cash Deposit,366852,Counterparty_14,ATM,Pakistan,2 flags,,41,Medium
+CUS025,Hamza Sheikh,12/9/1967,58,Rawalpindi,4.18382E+12,Banker,190410,Wholesale,TID025,6/27/2025,Online Transfer,1249989,Counterparty_35,Bank Branch,Pakistan,2 flags,,37,Medium
+CUS026,Sara Farooq,8/12/1977,48,Faisalabad,4.42254E+12,Freelancer,47244,Retail,TID026,6/26/2025,Cheque Deposit,333786,Counterparty_46,ATM,Pakistan,2 flags,,37,Medium
+CUS027,Hina Khan,3/16/2005,20,Islamabad,6.61473E+12,Driver,825356,Retail,TID027,12/24/2024,Online Transfer,51204,Counterparty_12,Online Banking,Pakistan,1 flags,,30,Low
+CUS028,Nimra Farooq,3/23/1992,33,Rawalpindi,4.46255E+12,Doctor,135283,Service-Based,TID028,7/27/2025,Cash Deposit,143809,Foreignbank_Canada,ATM,Canada,2 flags,,41,Medium
+CUS029,Anaya Malik,4/7/1976,49,Hyderabad,8.959E+12,Business Owner,82531,Wholesale,TID029,2/21/2025,Cash Deposit,26882,Counterparty_50,ATM,Pakistan,1 flags,,34,Medium
+CUS030,Bilal Sheikh,5/9/1967,58,Hyderabad,4.30273E+12,Doctor,42620,Wholesale,TID030,10/29/2025,Cheque Deposit,431578,Counterparty_34,Online Banking,Pakistan,2 flags,,37,Medium
+CUS031,Hina Chaudhry,9/4/1999,26,Peshawar,5.09246E+12,Business Owner,24232,Retail,TID031,3/10/2025,Pos Payment,417679,Counterparty_1,Mobile App,Pakistan,2 flags,,37,Medium
+CUS032,Bilal Sheikh,11/4/1985,40,Lahore,Invalid CNIC,Student,294213,Home Business,TID032,3/10/2025,Cash Deposit,236364,Counterparty_1,Mobile App,Pakistan,2 flags,,37,Medium
+CUS033,Sara Raza,9/28/1985,40,Rawalpindi,2.21853E+12,Banker,158719,Service-Based,TID033,11/5/2025,Cash Deposit,233284,Counterparty_44,POS Terminal,Pakistan,1 flags,,34,Medium
+CUS034,Laiba Khan,9/27/1995,30,Hyderabad,8.44671E+12,Business Owner,284913,Retail,TID034,1/6/2025,Pos Payment,374959,Counterparty_9,Mobile App,Pakistan,1 flags,,30,Low
+CUS035,Bilal Butt,7/20/2002,23,Karachi,9.96271E+12,Student,59516,Online Sales,TID035,11/18/2025,Cheque Deposit,149889,Counterparty_26,Online Banking,Pakistan,1 flags,,30,Low
+CUS036,Laiba Khan,5/19/2000,25,Karachi,9.57749E+12,Engineer,199088,Online Sales,TID036,3/8/2025,Online Transfer,265360,Counterparty_50,Bank Branch,Pakistan,1 flags,,30,Low
+CUS037,Fahad Butt,8/4/1964,61,Hyderabad,9.26119E+12,Driver,211910,Service-Based,TID037,9/29/2025,Online Transfer,429166,Foreignbank_Saudi Arabia,POS Terminal,Saudi Arabia,2 flags,,37,Medium
+CUS038,Nimra Butt,7/17/1967,58,Faisalabad,6.9989E+12,Driver,273247,Online Sales,TID038,3/18/2025,Cheque Deposit,48499,Counterparty_48,Bank Branch,Pakistan,1 flags,,30,Low
+CUS039,Hamza Malik,9/22/1998,27,Hyderabad,9.48284E+12,Business Owner,297914,Service-Based,TID039,5/31/2025,Atm Withdrawal,14748,Counterparty_17,Mobile App,Pakistan,1 flags,,34,Medium
+CUS040,Anaya Butt,4/24/1995,30,Peshawar,4.99686E+12,Student,231049,Wholesale,TID040,2/5/2025,Atm Withdrawal,1193465,Counterparty_2,Online Banking,Pakistan,2 flags,,41,Medium
+CUS041,Ali Raza,8/6/1973,52,Hyderabad,4.82607E+12,Engineer,249561,Not Applicable,TID041,10/18/2025,Atm Withdrawal,99588,Counterparty_13,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS042,Zara Sheikh,5/17/1964,61,Karachi,7.76086E+12,Freelancer,35145,Online Sales,TID042,1/12/2025,Atm Withdrawal,460847,Counterparty_49,POS Terminal,Pakistan,2 flags,,41,Medium
+CUS043,Maham Sheikh,10/16/1984,41,Islamabad,4.29174E+12,Shopkeeper,144451,Wholesale,TID043,5/6/2025,Cash Deposit,164510,Counterparty_39,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS044,Anaya Qureshi,3/18/1979,46,Multan,1.45805E+12,Driver,999999,Service-Based,TID044,5/27/2025,Online Transfer,307065,Counterparty_25,ATM,Pakistan,1 flags,,30,Low
+CUS045,Zara Malik,3/31/1955,70,Peshawar,7.22101E+12,Driver,604945,Online Sales,TID045,3/12/2025,Cheque Deposit,391213,Counterparty_30,ATM,Pakistan,1 flags,,30,Low
+CUS046,Sara Siddiqui,3/2/1960,65,Islamabad,7.502E+12,Engineer,183190,Not Applicable,TID046,1/25/2025,Cash Deposit,16975,Counterparty_23,POS Terminal,Pakistan,1 flags,,34,Medium
+CUS047,Zara Siddiqui,9/12/1998,27,Peshawar,7.47552E+12,Banker,157012,Service-Based,TID047,6/16/2025,Atm Withdrawal,330684,Counterparty_32,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS048,Laiba Malik,5/5/1959,66,Multan,5.22619E+12,Freelancer,273780,Not Applicable,TID048,11/8/2025,Pos Payment,120385,Counterparty_4,Mobile App,Pakistan,1 flags,,30,Low
+CUS049,Anaya Sheikh,3/13/2002,23,Rawalpindi,7.97305E+12,Banker,84400,Service-Based,TID049,8/28/2025,Pos Payment,238049,Foreignbank_Qatar,Mobile App,Qatar,2 flags,,37,Medium
+CUS050,Sara Butt,8/14/2004,21,Islamabad,2.56646E+12,Driver,154087,Online Sales,TID050,6/14/2025,Cash Deposit,293806,Counterparty_7,Mobile App,Pakistan,1 flags,,34,Medium
+CUS051,Nimra Chaudhry,12/28/1970,55,Islamabad,1.56526E+12,Engineer,183505,Home Business,TID051,12/10/2024,Online Transfer,448589,Counterparty_17,Online Banking,Pakistan,1 flags,,30,Low
+CUS052,Hina Mughal,12/9/1967,58,Karachi,2.89427E+12,Student,163760,Service-Based,TID052,7/23/2025,Online Transfer,496097,Counterparty_43,POS Terminal,Pakistan,2 flags,,37,Medium
+CUS053,Zara Siddiqui,6/6/2000,25,Hyderabad,5.00522E+12,Driver,158523,Service-Based,TID053,10/18/2025,Atm Withdrawal,102492,Counterparty_48,ATM,Pakistan,1 flags,,34,Medium
+CUS054,Danish Khan,9/18/1979,46,Islamabad,6.39245E+12,Freelancer,257961,Not Applicable,TID054,11/28/2024,Atm Withdrawal,72218,Counterparty_7,Mobile App,Pakistan,1 flags,,34,Medium
+CUS055,Zara Butt,9/6/1979,46,Multan,6.67253E+12,Student,225415,Home Business,TID055,2/20/2025,Online Transfer,1327911,Counterparty_22,Online Banking,Pakistan,2 flags,,37,Medium
+CUS056,Maham Butt,9/10/2005,20,Karachi,Invalid CNIC,Engineer,163619,Online Sales,TID056,6/11/2025,Cash Deposit,324328,Counterparty_30,Online Banking,Pakistan,2 flags,,37,Medium
+CUS057,Sara Chaudhry,7/23/1958,67,Islamabad,8.3831E+12,Banker,234229,Home Business,TID057,4/2/2025,Cash Deposit,45046,Counterparty_12,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS058,Danish Qureshi,2/26/1972,53,Karachi,8.22413E+12,Student,276516,Not Applicable,TID058,11/1/2025,Cash Deposit,333356,Counterparty_17,Mobile App,Pakistan,1 flags,,34,Medium
+CUS059,Hamza Qureshi,1/31/1983,42,Peshawar,8.44713E+12,Banker,211764,Wholesale,TID059,12/13/2024,Cheque Deposit,202511,Counterparty_31,Bank Branch,Pakistan,1 flags,,30,Low
+CUS060,Danish Malik,6/29/2001,24,Faisalabad,4.18212E+12,Student,194335,Wholesale,TID060,11/19/2025,Atm Withdrawal,7132,Counterparty_7,POS Terminal,Pakistan,1 flags,,34,Medium
+CUS061,Anaya Butt,4/28/1960,65,Rawalpindi,9.63701E+12,Business Owner,145498,Service-Based,TID061,6/28/2025,Cash Deposit,292190,Counterparty_31,Mobile App,Pakistan,1 flags,,34,Medium
+CUS062,Zara Raza,10/31/1966,59,Peshawar,3.45896E+12,Driver,118813,Online Sales,TID062,6/3/2025,Pos Payment,37416,Counterparty_20,Mobile App,Pakistan,1 flags,,30,Low
+CUS063,Ali Mughal,5/11/1961,64,Hyderabad,6.77591E+12,Electrician,850036,Not Applicable,TID063,6/25/2025,Pos Payment,94647,Counterparty_24,Online Banking,Pakistan,1 flags,,30,Low
+CUS064,Sara Qureshi,5/27/1972,53,Rawalpindi,5.17401E+12,Freelancer,151721,Retail,TID064,3/31/2025,Pos Payment,477366,Counterparty_22,POS Terminal,Pakistan,2 flags,,37,Medium
+CUS065,Sara Chaudhry,12/21/1962,63,Rawalpindi,9.63872E+12,Teacher,61733,Not Applicable,TID065,1/5/2025,Atm Withdrawal,390185,Counterparty_1,Mobile App,Pakistan,2 flags,,41,Medium
+CUS066,Laiba Mughal,12/24/1958,67,Islamabad,2.77724E+12,Doctor,266818,Online Sales,TID066,3/20/2025,Online Transfer,362187,Foreignbank_Turkey,Bank Branch,Turkey,2 flags,,37,Medium
+CUS067,Ayesha Sheikh,3/3/1996,29,Lahore,1.55707E+12,Engineer,156384,Wholesale,TID067,9/25/2025,Cheque Deposit,47399,Counterparty_23,Bank Branch,Pakistan,1 flags,,30,Low
+CUS068,Junaid Mughal,9/29/1994,31,Karachi,2.28782E+12,Business Owner,98221,Retail,TID068,6/27/2025,Online Transfer,424287,Counterparty_10,POS Terminal,Pakistan,2 flags,,37,Medium
+CUS069,Bilal Raza,9/19/1988,37,Faisalabad,9.45672E+12,Banker,106280,Home Business,TID069,9/14/2025,Online Transfer,306384,Counterparty_44,Mobile App,Pakistan,1 flags,,30,Low
+CUS070,Hamza Mughal,2/19/1990,35,Peshawar,2.66856E+12,Freelancer,31493,Home Business,TID070,4/22/2025,Cheque Deposit,1036066,Counterparty_24,Bank Branch,Pakistan,2 flags,,37,Medium
+CUS071,Nimra Mughal,1/23/1975,50,Islamabad,6.31262E+12,Driver,59761,Service-Based,TID071,6/16/2025,Cash Deposit,392646,Counterparty_11,Bank Branch,Pakistan,2 flags,,41,Medium
+CUS072,Ayesha Sheikh,8/29/1995,30,Multan,7.35931E+12,Doctor,46969,Wholesale,TID072,6/27/2025,Cheque Deposit,166939,Counterparty_20,Online Banking,Pakistan,2 flags,,37,Medium
+CUS073,Usman Malik,1/15/2001,24,Multan,8.02079E+12,Business Owner,171944,Service-Based,TID073,3/28/2025,Online Transfer,270532,Counterparty_44,POS Terminal,Pakistan,1 flags,,30,Low
+CUS074,Fahad Siddiqui,6/19/1981,44,Hyderabad,1.89184E+12,Student,1377193,Wholesale,TID074,8/21/2025,Cheque Deposit,344863,Counterparty_41,ATM,Pakistan,1 flags,,30,Low
+CUS075,Nimra Sheikh,1/29/1977,48,Lahore,2.40957E+12,Driver,117417,Not Applicable,TID075,11/19/2025,Pos Payment,136139,Counterparty_45,Online Banking,Pakistan,1 flags,,30,Low
+CUS076,Hina Farooq,5/5/1958,67,Islamabad,8.84817E+12,Shopkeeper,276037,Online Sales,TID076,9/9/2025,Cash Deposit,66685,Counterparty_10,ATM,Pakistan,1 flags,,34,Medium
+CUS077,Junaid Malik,8/7/1978,47,Multan,1.81299E+12,Banker,94843,Not Applicable,TID077,5/18/2025,Cash Deposit,151475,Counterparty_28,Mobile App,Pakistan,1 flags,,34,Medium
+CUS078,Maham Qureshi,4/6/1969,56,Faisalabad,5.84453E+12,Electrician,146968,Retail,TID078,3/27/2025,Online Transfer,83473,Counterparty_40,Bank Branch,Pakistan,1 flags,,30,Low
+CUS079,Fahad Sheikh,2/7/1971,54,Islamabad,2.25365E+12,Teacher,188673,Not Applicable,TID079,10/16/2025,Pos Payment,33699,Foreignbank_Uae,POS Terminal,Uae,2 flags,,37,Medium
+CUS080,Fahad Siddiqui,8/30/1996,29,Hyderabad,1.65147E+12,Student,58403,Wholesale,TID080,12/22/2024,Cash Deposit,217775,Counterparty_1,Mobile App,Pakistan,2 flags,,41,Medium
+CUS081,Anaya Butt,10/7/1963,62,Rawalpindi,5.05326E+12,Driver,246168,Home Business,TID081,8/8/2025,Cheque Deposit,290562,Counterparty_36,ATM,Pakistan,1 flags,,30,Low
+CUS082,Zara Khan,6/6/1972,53,Multan,4.35451E+12,Electrician,31588,Wholesale,TID082,10/16/2025,Cash Deposit,223824,Counterparty_41,Online Banking,Pakistan,2 flags,,41,Medium
+CUS083,Fahad Farooq,5/25/1983,42,Islamabad,8.78148E+12,Banker,192077,Not Applicable,TID083,3/1/2025,Cash Deposit,281330,Counterparty_35,Bank Branch,Pakistan,1 flags,,34,Medium
+CUS084,Maham Raza,4/21/1996,29,Peshawar,7.03043E+12,Business Owner,128714,Online Sales,TID084,7/18/2025,Cheque Deposit,90083,Counterparty_4,Bank Branch,Pakistan,1 flags,,30,Low
+CUS085,Sara Khan,9/18/1959,66,Hyderabad,8.82551E+12,Shopkeeper,217531,Home Business,TID085,7/27/2025,Cheque Deposit,377703,Counterparty_1,Bank Branch,Pakistan,1 flags,,30,Low
+CUS086,Laiba Qureshi,10/1/1960,65,Lahore,1.10897E+12,Business Owner,273331,Not Applicable,TID086,8/7/2025,Cheque Deposit,256280,Counterparty_29,ATM,Pakistan,1 flags,,30,Low
+CUS087,Usman Butt,10/1/1977,48,Faisalabad,9.6493E+12,Freelancer,205689,Service-Based,TID087,2/11/2025,Cash Deposit,183619,Counterparty_1,POS Terminal,Pakistan,1 flags,,34,Medium
+CUS088,Maham Siddiqui,11/11/1987,38,Karachi,Invalid CNIC,Shopkeeper,31524,Online Sales,TID088,6/21/2025,Pos Payment,927972,Counterparty_35,POS Terminal,Pakistan,3 flags,"Invalid CNIC
+Amount inconsistent with income
+Unusual transaction for occupation/business nature",40,High
+CUS089,Nimra Sheikh,2/2/2003,22,Faisalabad,1.05466E+12,Driver,909809,Home Business,TID089,10/2/2025,Cheque Deposit,397694,Counterparty_19,Bank Branch,Pakistan,1 flags,,30,Low
+CUS090,Nimra Mughal,6/26/1994,31,Peshawar,9.74876E+12,Banker,230642,Service-Based,TID090,1/19/2025,Cash Deposit,389900,Counterparty_50,ATM,Pakistan,1 flags,,34,Medium
+CUS091,Hina Chaudhry,12/2/1966,59,Faisalabad,2.27996E+12,Electrician,999999,Online Sales,TID091,10/28/2025,Cash Deposit,177768,Counterparty_34,Mobile App,Pakistan,1 flags,,34,Medium
+CUS092,Ali Siddiqui,5/21/1994,31,Lahore,7.54348E+12,Shopkeeper,217652,Retail,TID092,12/1/2024,Cash Deposit,345579,Counterparty_24,ATM,Pakistan,1 flags,,34,Medium
+CUS093,Laiba Mughal,11/4/1966,59,Faisalabad,5.45706E+12,Banker,93806,Wholesale,TID093,3/8/2025,Cheque Deposit,160519,Counterparty_24,Mobile App,Pakistan,1 flags,,30,Low
+CUS094,Zara Malik,8/31/1970,55,Faisalabad,4.87328E+12,Student,84997,Not Applicable,TID094,2/2/2025,Online Transfer,174686,Counterparty_12,ATM,Pakistan,1 flags,,30,Low
+CUS095,Zara Qureshi,11/1/1999,26,Karachi,2.13162E+12,Engineer,232457,Online Sales,TID095,7/2/2025,Cash Deposit,87114,Foreignbank_Usa,Bank Branch,Usa,2 flags,,41,Medium
+CUS096,Hina Malik,10/29/1963,62,Multan,3.08816E+12,Student,152096,Home Business,TID096,1/23/2025,Pos Payment,128025,Counterparty_34,Bank Branch,Pakistan,1 flags,,30,Low
+CUS097,Anaya Raza,10/27/1983,42,Faisalabad,5.2322E+12,Student,109317,Wholesale,TID097,7/17/2025,Pos Payment,218314,Counterparty_28,POS Terminal,Pakistan,1 flags,,30,Low
+CUS098,Usman Sheikh,3/25/1994,31,Islamabad,9.84514E+12,Banker,212439,Online Sales,TID098,2/21/2025,Cheque Deposit,264935,Counterparty_20,POS Terminal,Pakistan,1 flags,,30,Low
+CUS099,Junaid Raza,6/1/1959,66,Peshawar,2.68895E+12,Student,166274,Not Applicable,TID099,1/30/2025,Cash Deposit,395379,Counterparty_40,Online Banking,Pakistan,1 flags,,34,Medium
+CUS100,Nimra Mughal,3/14/1991,34,Hyderabad,1.74078E+12,Student,164602,Home Business,TID100,3/27/2025,Online Transfer,324617,Counterparty_34,Bank Branch,Pakistan,3 flags,"Unusual/high-value amount for a student
+Income does not match occupation
+Student + Home Business inconsistency",44,High
