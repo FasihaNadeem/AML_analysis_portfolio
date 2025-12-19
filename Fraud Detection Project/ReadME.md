@@ -10,6 +10,7 @@ I uploaded my datasets into Quadratic AI, and with the help of 2 clear prompts, 
 You have two Excel sheets: “CustomerData” with 100 rows and “TransactionData” with 100 rows. Perform full cleaning, standardization, and merge into a final table named “MasterAML”. Follow these steps carefully:
 
 STEP 1 — CLEAN CUSTOMERDATA:
+
 • Remove duplicate CustomerID rows (keep the most complete row).  
 • Remove exact duplicate rows completely.  
 • Standardize CustomerID format (CUS001, CUS002, … CUS100).  
@@ -23,6 +24,7 @@ STEP 1 — CLEAN CUSTOMERDATA:
 • Remove any extra blank columns or hidden whitespace.
 
 STEP 2 — CLEAN TRANSACTIONDATA:
+
 • Remove duplicate TransactionID rows (keep first valid entry).  
 • Remove exact duplicates completely.  
 • Standardize TransactionID format (TID001, TID002, … TID100).  
@@ -35,6 +37,7 @@ STEP 2 — CLEAN TRANSACTIONDATA:
 • Remove extra spaces and inconsistent casing.
 
 STEP 3 — MERGE SHEETS INTO MASTERAML:
+
 • Merge CustomerData and TransactionData using CustomerID.  
 • Include the following columns in MasterAML:  
   `CustomerID, Full Name, DOB, Age, Address, CNIC, Occupation, Monthly Income, Business Nature, TransactionID, Transaction Date, Transaction Type, Amount, Counterparty, Channel, Country.`  
@@ -49,6 +52,7 @@ Perform a complete AML/KYC analysis on all customers and their transactions.
 Follow these instructions step-by-step:
 
 STEP 1 — CUSTOMER PROFILE RISK ANALYSIS
+
 • Identify high-risk occupations (real estate, cash-intensive businesses, freelancers with irregular income, traders, jewelers, NGOs, foreign remittance receivers).  
 • Identify customers whose monthly income appears unrealistic or mismatched with their occupation.  
 • Identify customers with missing or abnormal CNIC, DOB, or Age (below 18 or above 90).  
@@ -57,6 +61,7 @@ STEP 1 — CUSTOMER PROFILE RISK ANALYSIS
 
 STEP 2 — TRANSACTION BEHAVIOR ANALYSIS
 For each customer, detect:
+
 • Large transactions inconsistent with declared income.  
 • Sudden spikes in transaction amounts compared to customer’s historical pattern.  
 • High frequency of cash deposits or withdrawals (structuring).  
@@ -68,6 +73,7 @@ For each customer, detect:
 
 STEP 3 — RED FLAG DETECTION
 Flag any customer with:
+
 • Transactions > 3x their monthly income.  
 • More than 5 cash deposits in 10 days.  
 • More than 5 high-value incoming transfers from different senders.  
@@ -81,11 +87,13 @@ Add a column “RedFlagsDetected” summarizing all triggered red flags.
 
 STEP 4 — RISK SCORING MODEL
 Create an overall risk score out of 100 using:
+
 • 30% — Customer profile risk  
 • 40% — Transaction behavior anomalies  
 • 30% — Red flag count  
 
 Then classify risk category:
+
 • 0–30 → Low  
 • 31–60 → Medium  
 • 61–100 → High  
